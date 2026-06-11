@@ -1,0 +1,32 @@
+{
+  "name": "dealflow",
+  "version": "1.0.0",
+  "description": "An IB-grade prospecting engine for deal makers: pull contacts from your own list or a connected data provider, qualify for real fit, research each company, assemble comparable-deal comp books, and draft on-voice outreach — every send human-approved. Pluggable sources, interchangeable value strategies, sector intelligence, and A/B split-testing.",
+  "author": {
+    "name": "Data Driven Partners",
+    "email": "tristan@datadrivenpartners.com",
+    "url": "https://datadrivenpartners.com"
+  },
+  "homepage": "https://datadrivenpartners.com",
+  "repository": "https://github.com/data-driven-partners/dealflow",
+  "license": "MIT",
+  "keywords": ["prospecting", "b2b", "sales", "gtm", "outreach", "comps", "deal-makers", "enrichment", "research"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Dealflow",
+    "shortDescription": "Research, comps, and on-voice outreach for deal makers.",
+    "longDescription": "An IB-grade prospecting engine: bring your own contact list (or connect a data provider), and the skill qualifies each prospect for real fit, researches the company, assembles a comparable-deal comp book, picks a value strategy, and drafts outreach in your voice — queued for your approval. Includes pluggable prospect sources, interchangeable strategies, sector packs, and A/B split-testing so you learn what converts.",
+    "developerName": "Data Driven Partners",
+    "category": "Productivity",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "websiteURL": "https://datadrivenpartners.com",
+    "privacyPolicyURL": "https://datadrivenpartners.com/privacy",
+    "termsOfServiceURL": "https://datadrivenpartners.com/terms",
+    "defaultPrompt": [
+      "Set up my deal-maker prospecting toolkit.",
+      "Work my dormant list and draft re-engagement outreach.",
+      "Build a comparable-deals comp book for this prospect."
+    ],
+    "brandColor": "#0F6B5F"
+  }
+}

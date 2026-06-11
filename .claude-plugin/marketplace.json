@@ -1,0 +1,25 @@
+{
+  "name": "dealflow",
+  "metadata": {
+    "description": "IB-grade prospecting skills for deal makers — research, comps, and on-voice outreach."
+  },
+  "owner": {
+    "name": "Data Driven Partners",
+    "email": "tristan@datadrivenpartners.com"
+  },
+  "plugins": [
+    {
+      "name": "dealflow",
+      "source": {
+        "source": "github",
+        "repo": "data-driven-partners/dealflow"
+      },
+      "description": "Turn any contact list into researched, on-voice outreach: qualify, research, build comps, and draft — you approve every send.",
+      "homepage": "https://datadrivenpartners.com",
+      "repository": "https://github.com/data-driven-partners/dealflow",
+      "license": "MIT",
+      "category": "sales",
+      "keywords": ["prospecting", "b2b", "sales", "gtm", "outreach", "comps", "deal-makers", "enrichment", "research"]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "dealflow",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An IB-grade prospecting engine for deal makers: pull contacts from your own list or a connected data provider, qualify for real fit, research each company, assemble comparable-deal comp books, and draft on-voice outreach — every send human-approved. Pluggable sources, interchangeable value strategies, sector intelligence, and A/B split-testing.",
   "author": {
     "name": "Data Driven Partners",
@@ -23,7 +23,7 @@
     "privacyPolicyURL": "https://datadrivenpartners.com/privacy",
     "termsOfServiceURL": "https://datadrivenpartners.com/terms",
     "defaultPrompt": [
-      "Set up my deal-maker prospecting toolkit.",
+      "Research my company and set up my profile.",
       "Work my dormant list and draft re-engagement outreach.",
       "Build a comparable-deals comp book for this prospect."
     ],

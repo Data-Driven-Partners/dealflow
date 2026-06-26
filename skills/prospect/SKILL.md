@@ -103,7 +103,7 @@ When a queued prospect replies, advance it. Hand to the next stage with a one-li
 | `references/ab-testing.md` | If this is the first run or rotation logic is uncertain. |
 | `references/strategies/<id>.md` | Only for strategies assigned to this batch. |
 | `references/sectors/<sector>.md` | Only if a matching pack exists for a prospect in this batch. |
-| `references/sources/<adapter>.md` | For the active source adapter. |
+| `references/sources/<adapter>.md` | For the active source adapter. Adapter modes: **hosted (broker)** — see `references/sources/dealflow-broker.md`; **self-host (direct Supabase)** — see `references/sources/dddb.md`. |
 
 ## Safeguards
 
